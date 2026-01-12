@@ -61,18 +61,11 @@ Practical time series analysis and forecasting project using 10 years of Banglad
 ## Project Structure
 ```
 ├── data/
-│   └── bangladesh_electricity.csv
+│   └── Boujdour.csv
+│   └── Bangladesh.csv
 ├── notebooks/
-│   ├── 01_exploratory_analysis.ipynb
-│   ├── 02_model_building.ipynb
-│   └── 03_forecasting.ipynb
-├── src/
-│   ├── data_cleaning.py
-│   ├── model.py
-│   └── visualization.py
-├── results/
-│   ├── forecast_output.csv
-│   └── validation_metrics.csv
+│   ├── Eckardt_Morocco_Electricity_TimeSeries_Analysis
+│   ├── Eckardt_TimeSeries_Final_WorkBook (Bangladesh Electricity)
 └── README.md
 ```
 
@@ -108,7 +101,6 @@ Successfully delivered 24-month electricity demand forecast with 4.59% error rat
 
 Steve Eckardt  
 Open Avenues The Build Fellowship 
-[LinkedIn](https://linkedin.com/in/steveeckardt)
 
 ## Certificate
 
