@@ -105,7 +105,7 @@ Open Avenues The Build Fellowship
 ## Certificate
 
 Completed: December 2025  
-Program: Practical Time Series Analysis - The Brainiacs Fellowship  
+Program: Practical Time Series Analysis - Open Avenues The Build Fellowship 
 Project Lead: Aiswarya Jonnalagadda
 This project is for educational and portfolio purposes.
 
