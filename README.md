@@ -100,14 +100,7 @@ Successfully delivered 24-month electricity demand forecast with 4.59% error rat
 ## Author
 
 Steve Eckardt  
-Open Avenues The Build Fellowship 
-
-## Certificate
-
 Completed: December 2025  
 Program: Practical Time Series Analysis - Open Avenues The Build Fellowship  
 Project Lead: Aiswarya Jonnalagadda
 This project is for educational and portfolio purposes.
-
-## License
-MIT
