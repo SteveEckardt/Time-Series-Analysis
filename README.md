@@ -100,6 +100,6 @@ Successfully delivered 24-month electricity demand forecast with 4.59% error rat
 ## Author
 
 Steve Eckardt  
-October 2025-December 2025 
-Practical Time Series Analysis, Open Avenues The Build Fellowship  
+October 2025-December 2025  
+Practical Time Series Analysis, Open Avenues The Build Fellowship   
 This project is for educational and portfolio purposes.
